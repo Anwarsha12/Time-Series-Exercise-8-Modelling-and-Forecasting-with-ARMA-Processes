@@ -1,8 +1,8 @@
 # Time Series Exercise 8: Modelling and Forecasting with ARMA Processes
 
-## Name: Aravindan T
+## Name: Anwarsha E.M
 
-## Roll No: 2305001003
+## Roll No: 2305001002
 
 ## Department: CSE
 
